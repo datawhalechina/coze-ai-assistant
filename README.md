@@ -60,8 +60,9 @@
 4. 图像流融合工作流
 
 ### 【重要通知】扣子账号服务升级
-修改教程中的专业版和基础版的区分的内容
 
+修改教程中的专业版和基础版的区分的内容
+跳转链接：https://www.coze.cn/docs/guides/account_upgrade_notification
 
 ## 参与贡献
 
