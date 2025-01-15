@@ -1,1 +1,6 @@
-{}
+{
+  "autoPairMarkdown": true,
+  "strictLineBreaks": true,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
+}

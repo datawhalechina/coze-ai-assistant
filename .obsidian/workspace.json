@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-15 更新"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-01-15 更新 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-01-15 更新 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md"
+                "file": "docs/README.md"
               },
               "icon": "lucide-list",
-              "title": "2025-01-15 更新 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -177,12 +176,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dbda079647cdc6f1",
+  "active": "5fd358e42b9fc902",
   "lastOpenFiles": [
     "README.md",
     "docs/README.md",
-    "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
-    "docs/2. coze是什么/2.1 日常更新的解读",
+    "docs/2. coze是什么/2.2 日常更新的解读/2025-01-15 更新.md",
+    "docs/2. coze是什么/2.2 日常更新的解读",
     "docs/2. coze是什么",
     "历史版本/项目版本0.3.3/README.md",
     "docs"
