@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
+                "file": "docs/README.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "dbda079647cdc6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-15 更新"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5c591c635c350cc6",
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "2025-01-15 更新 的反向链接列表"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "2025-01-15 更新 的出链列表"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "2025-01-15 更新 的大纲"
             }
           }
         ]
@@ -162,8 +177,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd0b91a5b490cb3a",
+  "active": "dbda079647cdc6f1",
   "lastOpenFiles": [
+    "README.md",
+    "docs/README.md",
+    "docs/2. coze是什么/2.1 日常更新的解读/2025-01-15 更新.md",
+    "docs/2. coze是什么/2.1 日常更新的解读",
+    "docs/2. coze是什么",
+    "历史版本/项目版本0.3.3/README.md",
     "docs"
   ]
 }
