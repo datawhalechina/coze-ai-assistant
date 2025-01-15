@@ -19,7 +19,7 @@
 
 
 ### 2.2 日常更新的解读
-[[docs/2. coze是什么/2.2 日常更新的解读/2025-01-15 更新|2025-01-15 更新]]的解读
+[[docs/2. What is coze/2.2 Update Summary Interpretation/2025-01-15 Update|2025-01-15 Update]]的解读
 
 ## 3. 开发智能体
 
