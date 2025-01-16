@@ -139,7 +139,7 @@
 
 *注：默认使用CC 4.0协议，也可根据自身项目情况选用其他协议*
 
+
 ## Star History
 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/coze-ai-assistant&type=Date)](https://star-history.com/#datawhalechina/coze-ai-assistant)
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/coze-ai-assistant&type=Date)](https://star-history.com/#datawhalechina/coze-ai-assistant&Date)
