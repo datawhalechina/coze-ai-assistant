@@ -35,17 +35,34 @@
 
 
 ## 扣子的推荐学习资源
+
 分为三类
 
 ### 图文教程
 
+1. 4万字教程-COZE/扣子与智能体入门（飞书文档）
 
+[飞行社](https://www.feishu.cn/community/article?id=7415932355996549148&%3Ffrom=ai_search&from=share)
+
+
+2. 教程：Coze / 扣子（飞书文档）
+
+[10. 教程：Coze / 扣子](https://waytoagi.feishu.cn/wiki/FjBYwQHVdicl26kXh7Ccdj6xngU?from=from_copylink)
+
+3. coze官方教程（网页）
+
+[扣子 - 文档中心](https://www.coze.cn/docs/guides/welcome)
 
 ### 视频教程
 
 
+[扣子官方教程&宣传片（对外版）](https://bytedance.larkoffice.com/docx/MU2gdBhluo1aCJx9g5Sc1vwWnte)
+
 
 ### 组队学习
+
+大家可以关注一下[官方社区](https://bytedance.larkoffice.com/docx/XJkIdcmbuodq2NxptOmcptdinKg)，有时候会有组队学习
+
 
 
 
@@ -53,6 +70,7 @@
 
 ## 如果学习或者开发出现了问题怎么办
 
-其实对于日常的学习上的问题，可以看一下本教程的[[docs/README]]
+其实对于日常的学习上的问题，可以看一下本教程的[[docs/README|容易出现错误的问题]]、或者官方的 [常见问题FAQ](https://bytedance.larkoffice.com/docx/PTbYd85sHonfzTxZxx3c2lx0nFe)
+
 
 如果是开发问题，建议使用飞书群聊，通过飞书联系他们的工作人员
