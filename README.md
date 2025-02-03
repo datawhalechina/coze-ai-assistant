@@ -18,7 +18,7 @@
 
 点击下面标题即可跳转对应的学习链接
 
-### [[docs/1. Agents and workflows/README|1. 智能体与工作流]]
+### [1. 智能体与工作流](./docs/1.%20Agents%20and%20workflows/README.md)
 
 
 ### 2. coze是什么
