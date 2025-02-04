@@ -1,7 +1,7 @@
 # 案例库
 
 ## 效率工具
-
+[[docs/11. Case Library/Case Library/Deep Search|Deep Search]]
 
 ## 商业服务
 
