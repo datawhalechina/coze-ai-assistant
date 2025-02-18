@@ -9,7 +9,7 @@ DeepSeek-R1是**深度求索（DeepSeek）于2025年1月20日发布的人工智�
 
 ### 自定义插件
 
-![[Pasted image 20250217222156.png]]
+![[attachments/Pasted image 20250217222156.png]]
 
 输入插件名称（DeepSeek R1）、插件描述（插件接入DeepSeek R1）、方式选择（云侧插件 - 在 Coze IDE 中创建）、IDE选择（Node.js）。
 ![[attachments/Pasted image 20250217222801.png]]

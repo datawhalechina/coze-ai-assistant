@@ -40,7 +40,7 @@
 
 使用正则表达式批量替换，参考：
 
-![[attachment/Pasted image 20250115132932.png]]
+![[attachments/Pasted image 20250115132932.png]]
 
 ## 对于部分特殊章节
 
@@ -49,4 +49,4 @@
 |      | 参考一                                             | 参考二                                             | 参考三                                             | 参考四                                             |
 | ---- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | 案例名称 | 数据质检助手模板                                        | 情感陪聊模板                                          | 自媒体创作助手                                         | 智能助教模板                                          |
-| 目录   | ![[attachment/Pasted image 20250204132430.png]] | ![[attachment/Pasted image 20250204132550.png]] | ![[attachment/Pasted image 20250204132717.png]] | ![[attachment/Pasted image 20250204132841.png]] |
+| 目录   | ![[attachments/Pasted image 20250204132430.png]] | ![[attachments/Pasted image 20250204132550.png]] | ![[attachments/Pasted image 20250204132717.png]] | ![[attachments/Pasted image 20250204132841.png]] |
