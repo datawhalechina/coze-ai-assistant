@@ -9,7 +9,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 
 可以把这个工作流拆解为四个部分：输入处理、搜索材料、生成初步总结、判断是否证明
 
-![[attachment/Pasted image 20250204140452.png]]
+![](attachments/Pasted image 20250204140452.png)
 
 | 功能     | 说明                                                          |
 | ------ | ----------------------------------------------------------- |
@@ -22,7 +22,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 ### 步骤一：复制模板
 1. 登录扣子专业版账号，并访问[**深度搜索**](https://www.coze.cn/template/workflow/7421484735613911051)[模板页面](https://www.coze.cn/template/workflow/7421484735613911051)。
 2. 选择工作流所属空间，然后单击**复制并继续编辑**。
-![[attachment/Pasted image 20250204140724.png]]
+![](attachments/Pasted image 20250204140724.png)
 
 ### 步骤二：测试并发布
 测试工作流效果并发布。
@@ -81,7 +81,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 |        |                                                     |                         |
 
 连接节点
-![[attachment/Pasted image 20250204163049.png]]
+![](attachments/Pasted image 20250204163049.png)
 
 #### 搜索材料
 需要新建三个节点：插件节点、代码节点和输出节点
@@ -97,7 +97,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 | 批处理-1          | item1 | 生成搜索query-search_query |
 | 输入-input_query | item1 | 搜索材料-item1             |
 
-![[attachment/Pasted image 20250204151806.png]]
+![](attachments/Pasted image 20250204151806.png)
 
 
 - **代码节点配置**
@@ -120,7 +120,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 | 输出变量-1 | output                                                                    | 处理输出结果-message_count |
 | 输出变量-2 | info                                                                      | 处理输出结果-markdown_str  |
 | 输出内容   | #### 二、交叉核对信息<br><br>检索到了**{{output}}**个来源...<br><br>{{info}}<br><br><br> |                      |
-![[attachment/Pasted image 20250204163113.png]]
+![](attachments/Pasted image 20250204163113.png)
 
 #### 生成初步总结
 
@@ -149,7 +149,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 | 输出内容   | #### 三、初步总结<br><br>我在分析了**{{count}}**个来源后，得到以下初步结论：<br>{{output}}<br> |                      |
 |        |                                                                       |                      |
 
-![[attachment/Pasted image 20250204170628.png]]
+![](attachments/Pasted image 20250204170628.png)
 #### 判断是否证明
 需要新建四个节点：一个大模型节点和两个输出节点
 
@@ -194,7 +194,7 @@ https://www.coze.cn/template/workflow/7421484735613911051
 | 输出变量-1 | output                                                                        | 判断是否已被证明-conclusion |
 | 输出内容   | #### 四、反思<br>{{output}}<br>#### 很遗憾，经过深度探索，仍然无法帮您验证命题，可能您的命题答案并不广泛存在于互联网的知识中。 |                     |
 
-![[attachment/Pasted image 20250204170649.png]]
+![](attachments/Pasted image 20250204170649.png)
 
 
 ### 步骤三：测试并发布工作流

@@ -9,16 +9,16 @@ DeepSeek-R1是**深度求索（DeepSeek）于2025年1月20日发布的人工智�
 
 ### 自定义插件
 
-![[Pasted image 20250217222156.png]]
+![](Pasted image 20250217222156.png)
 
 输入插件名称（DeepSeek R1）、插件描述（插件接入DeepSeek R1）、方式选择（云侧插件 - 在 Coze IDE 中创建）、IDE选择（Node.js）。
-![[attachments/Pasted image 20250217222801.png]]
+![](attachmentss/Pasted image 20250217222801.png)
 
 在进入插件详情页创建工具
 
 输入工具名称（DeepSeek_R1）和工具介绍（DeepSeek R1 模型调用）。
 
-![[attachments/Pasted image 20250217223200.png]]
+![](attachmentss/Pasted image 20250217223200.png)
 
 
 然后开始动手是现实下DeepSeek推理模型的接入  
@@ -62,10 +62,10 @@ export async function handler({ input, logger }) {
 }
 ```
 
-![[attachments/Pasted image 20250217224431.png]]
+![](attachmentss/Pasted image 20250217224431.png)
 
 点击左下角依赖包添加`openai`查找添加
-![[attachments/Pasted image 20250217224632.png]]
+![](attachmentss/Pasted image 20250217224632.png)
 
 切换到元数据添加输入参数和输出参数
 - 新建三个输入参数，下面分别是名称、描述
@@ -87,14 +87,14 @@ export async function handler({ input, logger }) {
 
 创建API key
 
-![[attachments/Pasted image 20250217223517.png]]
+![](attachmentss/Pasted image 20250217223517.png)
 
 点击输入的自动生成，填写密钥、模型和提示词
 
 
 我自己的DeepSeek没有钱，到时候再补
 
-![[attachments/Pasted image 20250217230820.png]]
+![](attachmentss/Pasted image 20250217230820.png)
 
 发布
 

@@ -3,7 +3,7 @@
 
 我们先来整体了解下自定义插件的页面功能区域，从左到右
 
-![[attachments/Pasted image 20250217223929.png]]
+![](attachmentss/Pasted image 20250217223929.png)
 
 - 第一个区域：
     

@@ -1,5 +1,5 @@
 # Coze的介绍
-![[docs/2. What is coze/2.1 Introduction to Coze/attachment/Pasted image 20250116230311.png]]
+![](docs/2. What is coze/2.1 Introduction to Coze/attachments/Pasted image 20250116230311.png)
 
 扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 AI 应用，并将 AI 应用发布到各个社交平台、通讯软件，也可以通过 API 或 SDK 将 AI 应用集成到你的业务系统中。
 

@@ -3,7 +3,7 @@
 ## 3.2.1 智能体的模式
 
 大家新建一个智能体的时候，可以在选择模式的地方发现，有三个选项
-![[attachment/Pasted image 20250124154439.png]]
+![](attachments/Pasted image 20250124154439.png)
 
 我们来看看分别是：
 1. 单Agent (LLM模式)
@@ -81,26 +81,26 @@ https://www.bilibili.com/video/BV1Ew4m1S7eq/
 3. 在所选空间中，单击目标智能体或创建一个新智能体。​
 
 4. 在人设与回复逻辑面板中编写提示词。
-![[attachment/Pasted image 20250124203526.png]]
+![](attachments/Pasted image 20250124203526.png)
 
 ### 3.2.2.2 使用提示词模版​
 
 扣子根据不同的业务场景提供了多套提示词模版，你可以直接使用模版，或参考模版编写提示词。​
 
 1. 在人设与回复逻辑面板的右下角，单击提示词库。
-![[attachment/Pasted image 20250124203631.png]]
+![](attachments/Pasted image 20250124203631.png)
 
 2. 在**推荐**页签下，选择系统推荐的提示词模版，然后单击**插入提示词**。
-![[attachment/Pasted image 20250124203644.png]]
+![](attachments/Pasted image 20250124203644.png)
 
 使用提示词后，系统会将选择的提示词自动填充到提示词的编辑框中，你可以基于自己的业务场景修改提示词。修改提示词时，你需要重点关注提示词中的高亮部分。
 
 - 添加文本：如果提示词中包含编辑块，你需要根据编辑块的空白引导添加文本内容。
 
-![[attachment/Pasted image 20250124203657.png]]
+![](attachments/Pasted image 20250124203657.png)
 
 - 添加技能：如果提示词中引用了技能，你需要添加或替换为当前智能体或工作流中已经配置的技能，以确保技能可用。
-![[attachment/Pasted image 20250124203705.png]]
+![](attachments/Pasted image 20250124203705.png)
 
 ### 3.2.2.2 引用提示词资源
 
@@ -111,31 +111,31 @@ https://www.bilibili.com/video/BV1Ew4m1S7eq/
 
 1. 在**人设与回复逻辑**面板的右下角，单击**提示词库**。
 
-![[attachment/Pasted image 20250124205936.png]]
+![](attachments/Pasted image 20250124205936.png)
 
 2. 在**团队**页签下，选择团队空间内的提示词资源，然后单击**插入提示词**。
-![[attachment/Pasted image 20250124210001.png]]
+![](attachments/Pasted image 20250124210001.png)
 
 使用提示词后，系统会将选择的提示词自动填充到提示词的编辑框中，你可以基于自己的业务场景修改提示词。修改提示词时，你需要重点关注提示词中的高亮部分。
 
 - 添加文本：如果提示词中包含编辑块，你需要根据编辑块的空白引导添加文本内容。
-![[attachment/Pasted image 20250124210012.png]]
+![](attachments/Pasted image 20250124210012.png)
 
 - 添加技能：如果提示词中引用了技能，你需要添加或替换为当前智能体或工作流中已经配置的技能，以确保技能可用。
-![[attachment/Pasted image 20250124210021.png]]
+![](attachments/Pasted image 20250124210021.png)
 
 ### 3.2.2.3 AI 生成提示词
 
 你可以通过自然语言告诉 AI 你希望编写或优化的提示词，大语言模型会根据你的描述，自动生成提示词；你也可以根据调试结果，告诉大语言模型提示词哪里不符合预期以及你的预期效果，大语言模型会自动帮你完成优化。
 
 1. 在**人设与回复逻辑**面板的右上角，单击**优化**。
-![[attachment/Pasted image 20250124220912.png]]
+![](attachments/Pasted image 20250124220912.png)
 
 2. 输入你希望编写或优化的提示词，单击发送图标，AI 会根据你的描述自动生成提示词。
 
 	如果你的智能体已完成调试，你可以单击**根据调试结果优化**，然后输入哪里不符合预期以及你的预期效果，大语言模型会自动帮你完成优化。
 
-![[attachment/Pasted image 20250124220942.png]]
+![](attachments/Pasted image 20250124220942.png)
 
 3. 单击**替换**，AI 生成的提示词会自动填充到提示词编辑框中。
 
@@ -147,7 +147,7 @@ https://www.bilibili.com/video/BV1Ew4m1S7eq/
 	- **点赞**：如果 AI 生成的提示词符合你的期望或对你有帮助，可以单击点赞图标，来给予正面反馈。
 	- **点踩**：如果 AI 生成的提示词不满足你的需求，可以单击点踩图标，然后选择不满意的原因，帮助 AI 学习并改进未来的输出。
 
-![[attachment/Pasted image 20250124221024.png]]
+![](attachments/Pasted image 20250124221024.png)
 
 
 
@@ -157,7 +157,7 @@ https://www.bilibili.com/video/BV1Ew4m1S7eq/
 
 
 ### 3.2.3.1 单 Agent 模式布局页面
-![[attachment/Pasted image 20250124221227.png]]
+![](attachments/Pasted image 20250124221227.png)
 
 我们可以看到**单 Agent 模式**下，我们整个页面分为上下两个部分，上面一部分内容较少，主要是当前编辑的介绍和一些选项；下面一部分东西较多，可以分为三栏，分别是“人设与回复逻辑”、“技能”、“预览与调试”。
 
