@@ -61,7 +61,8 @@
 
 3. 单击发布。
 
-![](attachments/Pasted image 20250124112911.png)
+
+![alt text](<../../../attachments/Pasted image 20250124112911.png>)
 
 好了，现在你完成了使用**自然语言搭建智能体**。
 
