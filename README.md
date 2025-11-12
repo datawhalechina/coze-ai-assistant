@@ -1,96 +1,150 @@
-#  **Coze - 打造 AI 私人提效助理实战知识库** 
+#  **coze-ai-assistant** 
 
 ##  **项目简介** 
 
-这是一个旨在帮助学习者和业务人员了解和使用 Coze 平台来构建 AI 工作流、智能体、插件、应用等的实战知识库。通过本知识库的学习，你将能够掌握如何利用 Coze 提升工作效率，实现业务流程的自动化。
+这是一个旨在帮助学习者和业务人员了解和使用 Coze 平台的实战知识库，专注于构建 AI 工作流、智能体、插件等应用。通过本知识库的学习，你将能够掌握如何利用 Coze 提升工作效率，实现业务流程的自动化。
 
-本教程 **特色** ，尽量通过简单的解释了解“ **资源** ”（知识库、数据库、长期记忆），减轻学习成本；尽量通过1-2个案例学会 **智能体、工作流、应用** ，减少学习时间；尽量通过1-2个实操看懂 **预览与调试** ，提升工作流的运行效率。
+本教程内容覆盖从智能体的“编排”、资源的“增删改查”，到工作流基础的“基本功”，再到工作流进阶的“5 大框架”，形成完整的学习闭环。
 
-➡️[`重构前版（飞书快速预览）`](https://zxdwhda-share.feishu.cn/wiki/VhX7w0EdHiDjTek7AT0cAjH2neb)⬅️
+##  **适合人群** 
 
-###  **项目背景、动机** 
+如果你能每天投入 1-2 小时学习时间，对 AI 和自动化感兴趣，希望提高工作效率或开发创新应用的职场人士、创业者、学生，都非常适合参加本次课程。无论是完全的 AI 新手，还是希望将 AI 引入专业领域的专家，这次组队学习都能为你提供有价值的知识和技能。
 
-在当今快节奏的业务环境中，自动化成为了提高效率的关键。然而，很多开发者和业务人员在面对 AI 技术的应用时感到迷茫，不知道从何入手。为此，我们创建了这个知识库，希望能为大家提供一条清晰的学习路径，让大家能够轻松上手 Coze 平台，进而实现业务流程的自动化和效率的提升。
+##  **学习路径** 
 
-##  **最新内容目录学习** 
+###  **新手入门路线** 
 
-点击下面标题即可跳转对应的学习链接，注意目前没有更新完，可以通过[`Discussion`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/discussions)进行催一下💬
+1. **第 1 章 了解 AI 工作流** - 掌握基本概念和应用场景
 
-### [ **第 1 章 了解 AI 工作流** ](https://www.datawhale.cn/learn/content/105/3259)
+2. **第 2 章 Coze 平台介绍** - 熟悉平台功能和界面操作
 
-### [ **第 2 章  Coze的介绍** ](https://www.datawhale.cn/learn/content/105/3260)
+3. **第 3 章 智能体开发** - 学习智能体的核心概念和开发方法
 
-### [ **第 3 章 智能体** ](https://www.datawhale.cn/learn/content/105/3261)
+4. **第 4 章 资源管理** - 掌握各种资源的创建、配置和使用
 
-### [ **第 4 章 资源的进阶玩法（进阶）** ](https://www.datawhale.cn/learn/content/105/3328)
+5. **第 5 章 工作流基础** - 学习工作流的基本构建方法
 
-### [ **第 5 章 工作流** ](https://www.datawhale.cn/learn/content/105/3329)
+6. **第 6 章 工作流进阶** - 掌握高级工作流框架和实战技巧
 
-### [ **第 6 章 应用** ](https://www.datawhale.cn/learn/content/105/3330)
+###  **进阶学习建议** 
 
-### [ **第 7 章 发布** ](https://www.datawhale.cn/learn/content/105/3331)
+- **案例库** - 学习实际应用案例和最佳实践
 
-### [ **第 8 章 预览与调试（进阶）** ](https://www.datawhale.cn/learn/content/105/3332)
+- **组队学习** - 参与社区讨论和项目实践
 
-### [ **第 9 章 常见问题** ](https://www.datawhale.cn/learn/content/105/3333)
+##  **开始学习前准备** 
 
-### [ **案例库** ](https://www.datawhale.cn/learn/content/105/3336)
+###  **必备工具** 
 
-## 备注
+- 准备一个可用的 Coze 账号（报名后查看第 2 章节内容）
 
-目前教程正在重构，本教程基于coze国内版（目前是以专业版教程为主的教程），重构内容包括：从23年11月以来的所有UI界面改动的内容，重构更新内容包括预览与调试、数据分析的讲解、还有最新的应用讲解。
+- 具备开放的学习心态，热衷在新的领域接收并学习新知识
 
-##  **Roadmap  路线图** 
+###  **学习资源** 
 
-如果是零基础建议从目录直接开始，有基础的同学先看看第4、8章节，选读其他章节，然后看看案例库
+点击下面标题即可跳转对应的学习链接：
+
+#### [ **第 1 章 了解 AI 工作流** ](https://www.datawhale.cn/learn/content/105/3259)
+
+#### [ **第 2 章 Coze的介绍** ](https://www.datawhale.cn/learn/content/105/3260)
+
+#### [ **第 3 章 智能体** ](https://www.datawhale.cn/learn/content/105/3261)
+
+#### [ **第 4 章 资源的玩法** ](https://www.datawhale.cn/learn/content/105/3328)
+
+#### [ **第 5 章 工作流-基础** ](https://www.datawhale.cn/learn/content/105/3329)
+
+#### [第 6 章 工作流-进阶](https://www.datawhale.cn/learn/content/105/5437)
+
+#### [组队学习](https://zxdwhda-share.feishu.cn/wiki/RPWkw22ORiKtw3kdyCJcq1hjnSf)
+
+##  **常见问题** 
+
+###  **AI 工作流需要编程基础吗？** 
+
+ **不需要。** 像 Coze 这样的平台提供了可视化界面，即使没有编程经验也能上手。但掌握一些基础编程知识会让你更好地理解和使用高级功能。
+
+###  **搭建工作流需要高昂的使用成本吗？** 
+
+ **不需要。** Coze 有免费版本，你可以零成本开始学习和使用。随着需求增加，可以根据实际情况选择付费计划（一个月 9.9 元）。
+
+###  **AI 工作流的知识更新很快，学习后会很快过时吗？** 
+
+AI 领域确实发展迅速，但项目教授的核心概念和方法是长期有效的。重要的是掌握搭建和拆解 AI 工作流的思维方式，而不仅仅是特定工具的使用。
+
+###  **项目叫 coze-ai-assistant，为什么一直没有教如何搭建助理？** 
+
+考虑到大家的职业背景和需求各不相同，我们的课程侧重于运营方向，这样无论是技术大佬还是萌新小白都可以快速上手。学习完 Coze 工具和工作流拆解思维后，结合案例库的内容，相信你可以完成自己的个人助理搭建。
+
+##  **风险挑战和应对建议** 
+
+###  **常见风险** 
+
+「明明一样」的 AI 工作流配置，就是运行不起来，导致心态崩溃。
+
+###  **应对建议** 
+
+细心检查，保证三个方面不走样：
+
+1. Coze 账号设置
+
+2. 选用的 AI 模型版本
+
+3. 工作流的具体配置
+
+确保这三者都与教程一致，可以大大减少出错概率。
+
+## 风险挑战和应对建议
+
+风险：「明明一样」的 AI 工作流配置，就是运行不起来，导致心态崩溃。
+
+建议：细心检查，保证三个方面不走样，即你的 Coze 账号设置，选用的 AI 模型版本，以及工作流的具体配置。确保这三者都与教程一致，可以大大减少出错概率。
 
 ##  **参与贡献** 
 
-- 如果你想参与到项目中来欢迎查看项目的[`Issue`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/issues)查看没有被分配的任务。
+- 如果你想参与到项目中来欢迎查看项目的[{u}`Issue`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/issues)查看没有被分配的任务。
 
-- 如果你发现了一些问题，欢迎在[`Issue`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/issues)中进行反馈🐛。
+- 如果你发现了一些问题，欢迎在[{u}`Issue`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/issues)中进行反馈🐛。
 
-- 如果你对本项目感兴趣想要参与进来可以通过[`Discussion`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/discussions)进行交流💬。
+- 如果你对本项目感兴趣想要参与进来可以通过[{u}`Discussion`](https://github.com/datawhalechina/coze-ai-assistant/blob/main/discussions)进行交流💬。
 
-如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看[`Datawhale 贡献指南`](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
+如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看[{u}`Datawhale 贡献指南`](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
 
 ##  **贡献者名单** 
 
+### v3.0
+
+undefinedundefined
+
+### v2.0
+
+undefinedundefinedundefined还有一位
+
+### v0.3
+
 感谢下面在教程从0——1陪伴的编写人员
-
-
-| 名称                                         | 职责         | 简介             |
-| :----------------------------------------- | :--------- | :------------- |
-| 这显得我很呆昂                                    | 项目规划、教程编写  | 项目负责人、发起人      |
-| 🐱Amy 姐                                    | 特别指导       | 在职             |
-| [David](https://github.com/David-88)       | 第7部分教程编写   | 第7部分教程发起人      |
-| 空飞                                         | 第6部分教程编写   | 在职             |
-| 胡瀞丹                                        | 第8部分教程编写   | 河南工程学院人工智能专业学生 |
-| [李摇](https://github.com/Yuki1996-ly)       | 第2、3部分教程编写 | 在职             |
-| [魏屹](https://github.com/groyota13)         | 第1、2部分教程编写 |                |
-| [高源（xuegao）](https://github.com/yaom2018)  | 第4部分教程编写   |                |
-| [千钧一发之际](https://github.com/Foreverwonder) | 第5部分教程编写   |                |
 
 
 ##  **致谢：** 
 
 Datawhale 开源组织、各位参与编写同学。
 
+##  **关注我们** 
 
-## 关注我们
+扫描下方二维码关注公众号：Datawhale
 
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
-</div>
+```{img}
+:caption: 
+:frac: 100%
 
-## LICENSE
+https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/image/6dac222a-8265-456a-824b-b6fc241f8b91.png
+```
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+##  **LICENSE  许可证** 
 
-*注：默认使用CC 4.0协议，也可根据自身项目情况选用其他协议*
+本作品采用[{u}`知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议`](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+
+ *注：默认使用CC 4.0协议，也可根据自身项目情况选用其他协议* 
 
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/coze-ai-assistant&type=Date)](https://star-history.com/#datawhalechina/coze-ai-assistant&Date)
