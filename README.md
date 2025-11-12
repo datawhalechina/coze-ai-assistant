@@ -22,9 +22,11 @@
 
 4. **第 4 章 资源管理** - 掌握各种资源的创建、配置和使用
 
-5. **第 5 章 工作流基础** - 学习工作流的基本构建方法
+5. **第 5 章 工作流-增删改查** - 学习工作流的基本构建方法
 
-6. **第 6 章 工作流进阶** - 掌握高级工作流框架和实战技巧
+6. **第 6 章 工作流-范式** - 掌握高级工作流框架
+
+7. **第 7 章 工作流-数据流转** - 掌握Coze实战技巧
 
 ###  **进阶学习建议** 
 
@@ -44,17 +46,19 @@
 
 点击下面标题即可跳转对应的学习链接：
 
-#### [ **第 1 章 了解 AI 工作流** ](https://www.datawhale.cn/learn/content/105/3259)
+#### [ **第 1 章 了解 AI 工作流** ](/docs/1.%20ai-workflow-fundamentals.md)
 
-#### [ **第 2 章 Coze的介绍** ](https://www.datawhale.cn/learn/content/105/3260)
+#### [ **第 2 章 Coze的介绍** ](/docs/2.%20coze-platform-introduction.md)
 
-#### [ **第 3 章 智能体** ](https://www.datawhale.cn/learn/content/105/3261)
+#### [ **第 3 章 智能体** ](/docs/3.%20agent-development.md)
 
-#### [ **第 4 章 资源的玩法** ](https://www.datawhale.cn/learn/content/105/3328)
+#### [ **第 4 章 资源的玩法** ](/docs/4.%20resource-management.md)
 
-#### [ **第 5 章 工作流-基础** ](https://www.datawhale.cn/learn/content/105/3329)
+#### [ **第 5 章 工作流-基础** ](/docs/5.%20workflow-crud.md)
 
-#### [第 6 章 工作流-进阶](https://www.datawhale.cn/learn/content/105/5437)
+#### [第 6 章 工作流-进阶](/docs/6.%20workflow-patterns.md)
+
+#### [第 7 章 工作流-数据流转](/docs/7.%20workflow-data-flow.md)
 
 #### [组队学习](https://zxdwhda-share.feishu.cn/wiki/RPWkw22ORiKtw3kdyCJcq1hjnSf)
 
@@ -137,12 +141,12 @@ Datawhale 开源组织、各位参与编写同学。
 :caption: 
 :frac: 100%
 
-https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/image/6dac222a-8265-456a-824b-b6fc241f8b91.png
+https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/image/cb13cb33-107c-457c-91db-28e2820f6207.png
 ```
 
 ##  **LICENSE  许可证** 
 
-本作品采用[{u}`知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议`](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+本作品采用[`知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议`](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
 
  *注：默认使用CC 4.0协议，也可根据自身项目情况选用其他协议* 
 
