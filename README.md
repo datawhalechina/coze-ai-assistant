@@ -1,4 +1,4 @@
-# **coze-ai-assistant （维护中）**
+# **coze-ai-assistant**
 
 [![Datawhale](https://img.shields.io/badge/Datawhale-Community-green)](https://github.com/datawhalechina)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
